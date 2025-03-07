@@ -1,0 +1,17 @@
+.DS_Store
+.vscode
+.idea
+docs/dev_notes.md
+dev_notes.txt
+dev_notes.md
+.coverage
+coverage.xml
+junit.xml
+.cpython*
+**/__pycache__/**
+.cache
+.pytest_cache
+.python-version
+config.json
+run.sh
+Pending_Updates.txt
